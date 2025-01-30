@@ -84,7 +84,7 @@ seed_examples:
 document_outline: |
   Information about the Utah Hockey Club.
 document:
-  repo: https://github.com/sallyom/ilab_knowledge
+  repo: https://bastion.ods-dis-aws-01.aws.rh-ods.com:9081/ilab_knowledge.git
   commit: 388dfff13fdc78ea67d57dc55a444197e854b1ae
   patterns:
     - utah-hockey-club.md
