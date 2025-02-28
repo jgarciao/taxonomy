@@ -183,7 +183,7 @@ document_outline: |
   Information about the black capped chickadee including distribution, appearance,
   vocalization, diet, and predators.
 document:
-  repo: https://github.com/juliadenham/Summit_knowledge
+  repo: https://bastion.ods-dis-aws-01.aws.rh-ods.com:9081/Summit_knowledge.git
   commit: 5f7158a5ce83c4ff493bfe341fe31ecad64ff697
   patterns:
     - chickadee.md

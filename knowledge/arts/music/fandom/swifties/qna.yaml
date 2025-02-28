@@ -167,7 +167,7 @@ document_outline: |
   they came to be, and their relationship with Taylor Swift.
 
 document:
-  repo: https://github.com/juliadenham/Summit_knowledge.git
+  repo: https://bastion.ods-dis-aws-01.aws.rh-ods.com:9081/Summit_knowledge.git
   commit: 5f7158a5ce83c4ff493bfe341fe31ecad64ff697
   patterns:
     - swifties.md
